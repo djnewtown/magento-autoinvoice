@@ -1,0 +1,13 @@
+{
+  "name": "newtown/nik-autoinvoice",
+  "description": "Autoinvoice Extension",
+  "minimum-stability": "dev",
+  "type": "magento-module",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Daniel Janin",
+      "email": "dj@newtown.at"
+    }
+  ]
+}
